@@ -1,0 +1,7 @@
+.DS_Store
+*.pid
+fuxion-engine
+cmd/cpp_server/fuxion-cpp-engine
+web/node_modules/
+web/dist/
+web/.vite/
