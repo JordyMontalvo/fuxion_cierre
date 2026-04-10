@@ -1,5 +1,6 @@
 .DS_Store
 *.pid
+*.pem
 fuxion-engine
 cmd/cpp_server/fuxion-cpp-engine
 web/node_modules/
